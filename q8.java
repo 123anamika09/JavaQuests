@@ -12,7 +12,7 @@ public class q8 {
     
     System.out.println(); 
     }
-    
+    ss.close();
 }
 }
 

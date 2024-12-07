@@ -14,5 +14,6 @@ public class q12 {
             }
         System.out.println();
     }
+    ss.close();
 }
 }

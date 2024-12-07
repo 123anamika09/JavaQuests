@@ -10,6 +10,7 @@ public class q10 {
         }
         System.out.println();
        }
+       ss.close();
      }
     //  in c we use command line arguments having advantage that we can pass arguments to the main fnc from command prompt 
     // in c  its optional to pss an argument to main fnc from command prompt bt in java array of objects are compulsory even we are passing arguments from command prompt or not...

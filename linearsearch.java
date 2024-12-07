@@ -19,6 +19,7 @@ public class linearsearch {
         }
             System.out.print("found");
       }
+      sc.close();
 
     }
     

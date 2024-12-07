@@ -12,5 +12,6 @@ public class q9 {
         }
         System.out.println();
     }
+    ss.close();
     }
 }

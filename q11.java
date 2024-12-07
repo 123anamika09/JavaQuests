@@ -10,5 +10,6 @@ public class q11 {
         }
         System.out.println();
        }
+       ss.close();
      }
     }
